@@ -1,7 +1,0 @@
-# Copy to terraform.tfvars. Provide the SQL password via env instead of committing it:
-#   export TF_VAR_sql_admin_password='YourStr0ng!Passw0rd'
-
-location        = "eastus"
-project_name    = "ahmad-webapp"
-sql_admin_login = "sqladmin"
-# sql_admin_password = "set-via-TF_VAR_sql_admin_password"

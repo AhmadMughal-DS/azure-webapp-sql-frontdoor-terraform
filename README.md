@@ -3,7 +3,9 @@
 > A web app on Azure App Service, backed by Azure SQL, published globally through Azure Front Door — provisioned with Terraform.
 > **Author:** Muhammad Ahmad · **IaC:** Terraform · **Cloud:** Azure
 
-![Terraform](https://img.shields.io/badge/Terraform-1.5%2B-7B42BC?logo=terraform&logoColor=white)
+![Terraform CI](https://github.com/AhmadMughal-DS/azure-webapp-sql-frontdoor-terraform/actions/workflows/terraform.yml/badge.svg)
+![Terraform](https://img.shields.io/badge/Terraform-1.6%2B-7B42BC?logo=terraform&logoColor=white)
+![Security](https://img.shields.io/badge/scanned-tfsec%20%7C%20checkov-success)
 ![Azure](https://img.shields.io/badge/Azure-App%20Service%20%7C%20SQL%20%7C%20Front%20Door-0078D4?logo=microsoftazure&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
